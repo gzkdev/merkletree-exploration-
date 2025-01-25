@@ -1,0 +1,14 @@
+{
+  "name": "merkle-root-with-merkletreejs",
+  "version": "1.0.0",
+  "description": "Generate and verify Merkle Root for Ethereum addresses using merkletreejs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "merkletreejs": "^1.3.9"
+  }
+}
